@@ -10,5 +10,5 @@
         <li>links</li>
       </ul>
       <p>O site foi todo estruturado em tabela, com o conhecimento adiquirido no percorrer das aulas. Adicionamos formatações básicas na linha, largura, altura, alinhamento e nas bordas.</p>
-      <p>A estrutura do site feita em <table> apesar de não ser a recomendada, atendeu o propósito do inicio do curso que era colocar em prática o modelo vigente.</p>
+      <p>A estrutura do site feita em tabela apesar de não ser a recomendada, atendeu o propósito do inicio do curso que era colocar em prática o aprendizado inicial.</p>
    
